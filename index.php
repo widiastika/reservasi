@@ -74,6 +74,8 @@ if (defined('ENVIRONMENT'))
  */
 	$application_folder = 'application';
 
+	/*tess
+	*/
 /*
  * --------------------------------------------------------------------
  * DEFAULT CONTROLLER
